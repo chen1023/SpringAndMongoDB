@@ -1,0 +1,15 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+/Freshman2016/.idea/
+/Freshman2016*.iml
+
+# Mac
+.DS_Store
+
+# Maven
+target/
