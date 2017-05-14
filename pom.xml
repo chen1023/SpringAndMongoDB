@@ -92,13 +92,6 @@
     </dependency>
 
   </dependencies>
-  <repositories>
-    <repository>
-      <id>spring-milestone</id>
-      <name>Spring Maven MILESTONE Repository</name>
-      <url>http://repo.spring.io/libs-milestone</url>
-    </repository>
-  </repositories>
   <build>
     <finalName>s</finalName>
   </build>
